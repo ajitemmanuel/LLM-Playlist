@@ -1,4 +1,13 @@
-langchain_community 
+langchain_community
 langchain
 langchain-openai
 python-dotenv
+fastapi
+fastmcp
+ipykernel
+langchain-core
+langchain-mcp-adapters
+langgraph
+python-jose
+ruff
+uvicorn
